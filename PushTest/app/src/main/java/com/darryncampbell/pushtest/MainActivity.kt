@@ -92,7 +92,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = "Please see adb logs for Push token",
         modifier = modifier
     )
 }

@@ -16,7 +16,6 @@ class FCMHandler : FirebaseMessagingService() {
 
     override fun onNewToken(token: String) {
         //Called whenever the FCM token is renewed - re-register the device with PubNub
-        return
         Log.d(LOG_TAG, "New Token Received: $token")
     }
 
