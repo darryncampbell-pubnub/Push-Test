@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PushTest</string>
+    <string name="default_notification_channel_id">push-demo-general</string>
+    <string name="default_notification_channel_name">Push Test</string>
+    <string name="default_notification_channel_description">Default channel used for push messages</string>
+
+</resources>
